@@ -1,0 +1,15 @@
+{
+    "name":"Drink Health Potion",
+    "title":"Drink Health Potion",
+    "description":"Tutorial FVTT script macro to consume and apply a health potion on a selected actor.",
+    "author":"pwmohr",
+    "version":"0.0.1",
+    "minimumCoreVersion":"0.8.6",
+    "compatibleCoreVersion":"0.8.6",
+    "scripts": [
+        "DrinkHealthPotion.js"
+    ],
+    "url":"https://github.com/pwmohr/FVTT_DrinkPotion.git",
+    "manifest":"https://github.com/pwmohr/FVTT/releases/download/0.0.1/module.json",
+    "download":"https://github.com/pwmohr/FVTT/releases/download/0.0.1/module.zip"
+}
